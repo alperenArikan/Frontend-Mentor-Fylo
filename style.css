@@ -150,7 +150,7 @@ align-items: center;
     opacity: 0.5;
     font-size: 10px;
 }
-@media screen and (max-width: 375px){
+@media screen and (max-width: 450px){
     body{
         background-image: url(./images/bg-mobile.png);
         background-size: 100%;
